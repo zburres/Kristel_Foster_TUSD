@@ -19,3 +19,9 @@ header {
   color: #666666;
 }
 
+.dark-section p {
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  
+}
+
