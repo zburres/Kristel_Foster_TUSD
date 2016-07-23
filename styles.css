@@ -1,6 +1,9 @@
 header {
   background-color: #0000cc;
   color: white;
+  border-style: solid;
+  border-bottom-width: 1px;
+  border-color: red;
 
 
 }
