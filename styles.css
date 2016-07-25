@@ -7,9 +7,21 @@ header {
   border-color: #3d4d5c;
   font-family: serif;
   text-align: center;
-
-
 }
+
+header btn {
+  float:right;
+  display: inline-block;
+}
+
+header h1 {
+  display: inline-block;
+}
+
+header h3 {
+  display: inline-block;
+}
+
 
 .light-section {
   background-color: #f2f2f2;
