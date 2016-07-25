@@ -11,16 +11,10 @@ header {
 
 header btn {
   float:right;
-  display: inline-block;
+  display: inline;
 }
 
-header h1 {
-  display: inline-block;
-}
 
-header h3 {
-  display: inline-block;
-}
 
 
 .light-section {
