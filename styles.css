@@ -37,12 +37,13 @@ header button:hover {
 }
 
 
-
-
-
-
 .social {
   margin:25px;
+  
+}
+
+.social:hover {
+  opacity:0.3;
   
 }
 
