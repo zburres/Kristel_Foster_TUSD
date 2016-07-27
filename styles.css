@@ -26,19 +26,6 @@ header button:hover {
   color:white;
 }
 
-.header-donate {
-  border-color:#d92626;
-  color:#d92626;
-}
-
-.header-donate:hover {
-  border-color:red;
-  color:white;
-}
-
-
-
-
 
 .social {
   margin:25px;
@@ -56,8 +43,15 @@ header button:hover {
   margin-top:40px;
   padding: 20px;
   
+}
+.header-donate {
+  font-size:25px;
+  padding:0;
+}
 
-
+.header-donate:hover {
+  border-color:red;
+  color:white;
 }
 
 
