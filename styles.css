@@ -27,6 +27,8 @@ header button:hover {
 }
 
 .header-donate {
+  font-size:15px;
+  padding:10px;
   background-color:#c63939;
 }
 
