@@ -32,6 +32,10 @@ header button:hover {
   background-color:#c63939;
 }
 
+.header-donate:hover {
+  background-color:red;
+}
+
 
 
 
