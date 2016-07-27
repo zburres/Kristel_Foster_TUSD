@@ -13,8 +13,11 @@ header button {
   margin-top: 40px;
   margin-bottom: 40px;
   margin-right: 40px;
-  background-color:#3d4d5c;
-  border: none;
+  background-color:#004d99;
+  border-style:solid;
+  border-color:white;
+  border-radius: 5px;
+  padding:5px;
   
   
 }
