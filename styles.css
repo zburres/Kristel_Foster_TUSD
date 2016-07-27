@@ -28,8 +28,6 @@ header button:hover {
 
 .social {
   margin:25px;
-  margin-left: auto;
-  margin-right: auto;
   
 }
 
@@ -39,8 +37,7 @@ header button:hover {
   color:white;
   border-radius:10px;
   font-size:25px;
-  margin-left: auto;
-  margin-right: auto;
+
 }
 
 
