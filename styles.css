@@ -13,15 +13,17 @@ header button {
   margin-top: 40px;
   margin-bottom: 40px;
   margin-right: 40px;
-  background-color:#d9d9d9;
+  background-color:#004d99;
   border-style:solid;
-  border-color:white;
+  border-color:#d9d9d9;
   border-radius: 5px;
   padding:5px;
+  color:#d9d9d9;
 }
 
 header button:hover {
   background-color:#f2f2f2;
+  color:#f2f2f2;
 }
 
 
