@@ -22,9 +22,21 @@ header button {
 }
 
 header button:hover {
-  border-color:#f2f2f2;
-  color:white;
+  background-color:#c63939;
 }
+
+
+
+header a {
+  text-decoration: none;
+    color:#d9d9d9;
+}
+
+header a:hover {
+  text-decoration: none;
+    color:#d9d9d9;
+}
+
 
 .header-donate {
   font-size:15px;
@@ -66,13 +78,6 @@ header button:hover {
   
 }
 
-
-
-
-
-
-
-
 .light-section {
   background-color: #f2f2f2;
   color: #666666;
@@ -85,5 +90,9 @@ header button:hover {
    padding: 40px;
 }
 
+.endorsements-list {
+    text-align:center;
+    width:100%;
+}
 
 
